@@ -102,6 +102,19 @@ padding-bottom: 94px;
 .link-no-underline {
   text-decoration: none;
 }
+.symbols-header {
+fill: var(--grey);
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.symbols-header:hover
+.symbols-header:focus {
+  fill: var(--blue);
+}
+.icon-email {
+  margin-right: 10px;
+}
 
 /* Styles for main section INDEX PAGE ONLY*/
 
