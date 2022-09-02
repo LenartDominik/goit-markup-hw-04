@@ -115,7 +115,7 @@ justify-content: center;
 .icon-envelope,
 .icon-smartphone {
   margin-right: 10px;
-  fill: #757575
+  fill: currentColor;
 }
 
 /* Styles for main section INDEX PAGE ONLY*/
