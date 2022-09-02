@@ -35,10 +35,9 @@ padding-bottom: 94px;
 }
 .footer-links:hover, 
 .footer-links:focus, 
-.link-style:focus, 
-.link-style:hover, 
-.blue-text.link-style 
-.contact-link-style {
+.contact-link-style:focus, 
+.contact-link-style:hover, 
+.blue-text.link-style {
    color: var(--blue);
 }
 .no-margin {
