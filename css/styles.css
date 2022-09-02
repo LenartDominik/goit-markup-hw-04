@@ -112,7 +112,7 @@ justify-content: center;
 .symbols-header:focus {
   fill: var(--blue);
 }
-.icon-email {
+.icon-envelope {
   margin-right: 10px;
   color: #757575
 }
