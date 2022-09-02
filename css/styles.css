@@ -37,9 +37,8 @@ padding-bottom: 94px;
 .footer-links:focus, 
 .link-style:focus, 
 .link-style:hover, 
-.blue-text.link-style
-.blue-text:hover,
-.blue-text:focus {
+.blue-text.link-style,
+.blue-text:hover {
    color: var(--blue);
 }
 .no-margin {
