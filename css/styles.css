@@ -108,7 +108,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 }
-.symbols-header:hover
+.symbols-header:hover,
 .symbols-header:focus {
   fill: var(--blue);
 }
