@@ -10,6 +10,7 @@
   --notwhite: #f5f4fa;
   --footerlinks: #ffffff60;
   --productborder: #eeeeee;
+  --background: rgba(47, 48, 58, 0.4);
 }
 
 /* Global styles used throughout whole website */
@@ -105,7 +106,8 @@ padding-bottom: 94px;
 
 /* Top section with button */
 .top-section {
-  background-color: var(--darkgrey);
+  background-image: url(img-work.jpg);
+  background-color: var(--background);
   color: var(--white);
   width: 100%;
   display: flex;
