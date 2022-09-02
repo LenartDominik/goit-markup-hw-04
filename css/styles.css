@@ -106,7 +106,7 @@ padding-bottom: 94px;
 
 /* Top section with button */
 .top-section {
-  background-image: url(img-work.jpg);
+  background-image: url(../images/img-work.jpg);
   background-color: var(--background);
   color: var(--white);
   width: 100%;
