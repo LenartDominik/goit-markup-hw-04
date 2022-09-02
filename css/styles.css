@@ -112,12 +112,10 @@ justify-content: center;
 .symbols-header:focus {
   fill: var(--blue);
 }
-.icon-envelope {
+.icon-envelope,
+.icon-smartphone {
   margin-right: 10px;
   color: #757575
-}
-.icon-smartphone {
-  color:#757575
 }
 
 /* Styles for main section INDEX PAGE ONLY*/
