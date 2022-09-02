@@ -38,7 +38,7 @@ padding-bottom: 94px;
 .link-style:focus, 
 .link-style:hover, 
 .blue-text.link-style,
-.contact-link-styl:hover {
+.contact-link-style:hover {
    color: var(--blue);
 }
 .no-margin {
