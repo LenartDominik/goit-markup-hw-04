@@ -116,7 +116,7 @@ justify-content: center;
 .icon-envelope,
 .icon-smartphone {
   margin-right: 10px;
-  fill: #757575;
+  color: var(--iconcolor);
 
 }
 
