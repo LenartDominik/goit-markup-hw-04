@@ -268,12 +268,12 @@ justify-content: center;
   align-items: center;
   flex-direction: column;
 }
-.client-logos {
+.client-symbols {
   display: flex;
   gap: 30px;
   list-style: none;
 }
-.client-logo {
+.client-symbol {
   border-radius: 4px;
   border: var(--iconcolor) solid 1px;
   width: 170px;
