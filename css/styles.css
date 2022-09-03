@@ -12,6 +12,7 @@
   --productborder: #eeeeee;
   --background: rgba(47, 48, 58, 0.4);
   --iconcolor: #afb1b8;
+  --footericon: rgba(255, 255, 255, 0.1);
 }
 
 /* Global styles used throughout whole website */
@@ -55,6 +56,14 @@ padding-bottom: 94px;
   text-align: center;
   color: var(--notblack);
   margin: 0px 0 50px 0;
+}
+.footer-icon:hover,
+.footer-icon:focus,
+.team-card-symbol:hover,
+.team-card-symbol:focus {
+  background-color: var(--blue);
+  fill: var(--white);
+  cursor: pointer;
 }
 /* Styles for header section */
 
@@ -236,12 +245,12 @@ justify-content: center;
   font-size: 16px;
   text-align: center;
 }
-.team-card-icons {
+.team-card-symbols {
   display: flex;
   gap: 10px;
   margin-bottom: 30px;
 }
-.team-card-icon {
+.team-card-symbol {
   width: 44px;
   height: 44px;
   background-color: var(--white);
