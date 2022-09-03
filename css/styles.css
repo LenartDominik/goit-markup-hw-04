@@ -57,8 +57,8 @@ padding-bottom: 94px;
   color: var(--notblack);
   margin: 0px 0 50px 0;
 }
-.footer-icon:hover,
-.footer-icon:focus,
+.footer-symbol:hover,
+.footer-symbol:focus,
 .team-card-symbol:hover,
 .team-card-symbol:focus {
   background-color: var(--blue);
@@ -185,7 +185,7 @@ justify-content: center;
   width: 270px;
   margin: 0;
 }
-.special-icon {
+.special-symbol {
   background-color: var(--notwhite);
   height: 120px;
   width: 270px;
