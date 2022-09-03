@@ -280,7 +280,7 @@ justify-content: center;
   height: 92px;
   fill: var(--iconcolor);
 }
-.client-logo:hover {
+.client-symbol:hover {
   fill: var(--blue);
   border: var(--blue) solid 1px;
 }
