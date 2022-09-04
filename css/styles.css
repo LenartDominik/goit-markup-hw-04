@@ -382,12 +382,9 @@ margin: 0;
   color: var(--footerlinks);
 }
 .footer-container {
-  flex-direction: column;
+  flex-direction: row;
   color: var(--white);
   display: flex;
-  justify-content: center;
-  /* flex-direction: row; */
-  /* margin-left: 215px; */
 }
 .footer-link-list {
   list-style: none;
