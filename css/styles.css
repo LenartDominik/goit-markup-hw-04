@@ -381,6 +381,7 @@ margin: 0;
   flex-direction: column;
   color: var(--white);
   display: flex;
+  justify-content: center;
   /* flex-direction: row; */
   /* margin-left: 215px; */
 }
