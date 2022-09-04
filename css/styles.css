@@ -26,11 +26,11 @@ body {
   padding: 0;
   background-color: #fff;
 }
-.wrapper {
+/* .wrapper {
   background-color: var(--white);
   width: 1600px;
   margin: 0 auto;
-}
+} */
 .container {
   width: 1200px; 
   padding: 0 15px; 
