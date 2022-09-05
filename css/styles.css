@@ -297,6 +297,7 @@ color: var(--iconcolor);
 ul {
 padding: 0;
 margin: 0;
+list-style: none;
 }
 .filter-buttons {
   display: flex;
