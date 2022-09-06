@@ -304,9 +304,24 @@ color: var(--iconcolor);
   height: 92px;
   fill: var(--iconcolor);
 }
-.client-symbol:hover {
+/* .client-symbol:hover {
   fill: var(--blue);
   border: var(--blue) solid 1px;
+} */
+.clients-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 170px;
+  height: 92px;
+  border: 1px solid var(--iconcolor);
+  fill: var(--iconcolor);
+  border-radius: 4px;
+}
+.clients-link:hover,
+.clients-link:focus {
+  fill: var(--blue);
+  border-color: var(--blue);
 }
 
 /* Styles for main section PORTFOLIO PAGE ONLY */
