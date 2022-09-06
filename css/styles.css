@@ -428,15 +428,20 @@ list-style: none;
 }
 .footer-symbols {
   display: flex;
+  align-items: center;
+  justify content: center;
   gap: 10px;
   margin-left: 70px;
   list-style: none;
   padding: 0;
 }
 .footer-symbol {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 44px;
   height: 44px;
-  background-color: var(--footericon);
   border-radius: 50%;
+  background-color: var(--footericon);
   fill: var(--white);
 }
